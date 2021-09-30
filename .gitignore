@@ -1,6 +1,15 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
+# Exclude all directories
+**/
+# Exclude files in root
+/*
+
+# Add projects
+!ili9341/
+!ili9341/*
+
 # Temporary files
 *.000
 *.bak
@@ -24,3 +33,4 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
