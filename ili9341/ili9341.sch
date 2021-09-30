@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "ili9341"
+Date "27-09-2021"
+Rev "v2021-09-27"
+Comp "Bolukan"
 Comment1 ""
 Comment2 ""
 Comment3 ""
