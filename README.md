@@ -43,3 +43,11 @@ Project date: 2021-09-27
 <a href="ili9341/images/ili9341_schematic.png"><img src="ili9341/images/ili9341_schematic.png" height="80"></a>  
 <a href="ili9341/images/ili9341_front.png"><img src="ili9341/images/ili9341_front.png" width="30%"></a> <a href="ili9341/images/ili9341_back.png"><img src="ili9341/images/ili9341_back.png" width="30%"></a>  
 
+## Power latching circuit  
+Power latching circuit - first pcb design  
+Project date: 2020-03-01  
+
+<a href="Powersaver_LDO/Powersaver_LDO_schematic.png"><img src="Powersaver_LDO/Powersaver_LDO_schematic.png" height="80"></a>  
+<a href="Powersaver_LDO/Powersaver_LDO_Panelised/Powersavers_front.png"><img src="Powersaver_LDO/Powersaver_LDO_Panelised/Powersavers_front.png" width="30%"></a> <a href="Powersaver_LDO/Powersaver_LDO_Panelised/Powersavers_back.png"><img src="Powersaver_LDO/Powersaver_LDO_Panelised/Powersavers_back.png" width="30%"></a>  
+
+
