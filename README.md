@@ -13,5 +13,4 @@ To control christmas lights with WLED
 Project date: 2022-06-07  
 
 <a href="WLED 12V ESP32/WLED 12V ESP32 Schematic.png"><img src="WLED 12V ESP32/WLED 12V ESP32 Schematic.png" height="80"></a>  
-<a href="WLED 12V ESP32/wled_front.png"><img src="WLED 12V ESP32/wled_front.png" height="80"></a>  
-<a href="WLED 12V ESP32/wled_back.png"><img src="WLED 12V ESP32/wled_back.png" height="80"></a>  
+<a href="WLED 12V ESP32/wled_front.png"><img src="WLED 12V ESP32/wled_front.png" height="280"></a> <a href="WLED 12V ESP32/wled_back.png"><img src="WLED 12V ESP32/wled_back.png" height="280"></a>  
